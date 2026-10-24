@@ -1,0 +1,25 @@
+
+# Python virtual environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# VS Code personal settings
+.vscode/
+
+# Large temporary downloads
+data/raw/downloads/
+*.zip
+*.tar
+*.tar.gz
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Credentials and environment secrets
+.env
+.env.*
+!.env.example
