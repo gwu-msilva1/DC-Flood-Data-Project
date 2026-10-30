@@ -1,0 +1,31 @@
+{
+    "source": "PRISM Climate Group",
+    "variable": "daily precipitation",
+    "units": "mm",
+    "date": "19960121",
+    "event_ids": [
+        "FLOOD_002"
+    ],
+    "resolution_product": "800m",
+    "crs": "EPSG:4269",
+    "native_resolution": [
+        0.008333333333,
+        0.008333333333
+    ],
+    "source_nodata": -9999.0,
+    "study_bbox_lonlat": [
+        -77.2,
+        38.78,
+        -76.85,
+        39.02
+    ],
+    "temporal_resolution": "daily",
+    "day_boundary": "Requires source verification",
+    "download_url": "https://services.nacse.org/prism/data/get/us/800m/ppt/19960121",
+    "retrieved_at_utc": "2026-10-30T02:51:01.842807+00:00",
+    "total_cells": 1218,
+    "valid_cells": 1218,
+    "missing_cells": 0,
+    "missing_fraction": 0.0,
+    "output_file": "prism_ppt_800m_19960121_dc.tif"
+}

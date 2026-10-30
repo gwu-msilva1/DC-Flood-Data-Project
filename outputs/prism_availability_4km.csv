@@ -1,0 +1,4 @@
+date,status,error,event_ids,resolution
+19960118,success,,FLOOD_001,4km
+19960119,success,,FLOOD_001;FLOOD_002,4km
+19960120,success,,FLOOD_001;FLOOD_002,4km
