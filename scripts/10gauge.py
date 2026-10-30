@@ -7,7 +7,7 @@ import time
 
 import pandas as pd
 import requests
-
+import os
 
 # SECTION 1: Project folders and settings
 
@@ -39,14 +39,14 @@ API_URL = (
 PARAMETER_CODE = "00065"
 
 # Start with a small test
-STATION_LIMIT = 4
-EVENT_LIMIT = 3
+STATION_LIMIT = None
+EVENT_LIMIT = None
 
 # Hours before and after the reported event
 BUFFER_HOURS = 24
 
 MAX_ATTEMPTS = 3
-VALIDATION_ONLY = True
+VALIDATION_ONLY = False
 
 
 # SECTION 2: Load events and stations
@@ -122,6 +122,19 @@ session.headers.update({
 })
 
 
+# Read the API key from the terminal environment.
+api_key = os.environ.get("USGS_API_KEY")
+
+if api_key:
+    session.headers["X-Api-Key"] = api_key
+    print("USGS API key configured.")
+else:
+    print(
+        "Warning: No USGS API key found. "
+        "Anonymous request limits apply."
+    )
+
+
 def get_with_retry(url, params=None):
 
     for attempt in range(1, MAX_ATTEMPTS + 1):
@@ -135,6 +148,20 @@ def get_with_retry(url, params=None):
 
         except requests.HTTPError as exc:
             status = exc.response.status_code
+    
+            # Stop on rate limiting instead of repeatedly
+            # requesting data from an exhausted quota.
+            if status == 429:
+                retry_after = exc.response.headers.get(
+                    "Retry-After", "not provided"
+                )
+
+                print(
+                    "USGS rate limit reached. "
+                    f"Retry-After: {retry_after}"
+                )
+
+                raise
 
             if (
                 status not in (429, 500, 502, 503, 504)
@@ -420,13 +447,23 @@ def check_existing(station_id, event_id, start, end):
         if typical_interval <= 0:
             return None
 
-        # Flag unusually large internal gaps.
+        # Identify internal observation gaps.
+        # Keep the original data even when gaps exist.
+
         largest_interval = float(
             differences.max()
         )
 
-        if largest_interval > 1.5 * typical_interval:
-            return None
+        internal_gap_count = int(
+            (differences > 1.5 * typical_interval).sum()
+        )
+
+        if internal_gap_count > 0:
+            print(
+                f"Data-quality notice: {station_id} / {event_id} "
+                f"contains {internal_gap_count} internal gap(s). "
+                "Existing observations will be preserved."
+            )
 
         # Check the beginning and end of the window.
         first_time = sorted_times.iloc[0]
@@ -444,11 +481,11 @@ def check_existing(station_id, event_id, start, end):
         # than approximately one sampling interval.
         tolerance = typical_interval + 0.01
 
-        if start_gap > tolerance:
-            return None
-
-        if end_gap > tolerance:
-            return None
+        if start_gap > tolerance or end_gap > tolerance:
+            print(
+                f"Data-quality notice: {station_id} / {event_id} "
+                "has incomplete observation-window boundaries."
+            )
 
         return metadata
 
@@ -770,6 +807,35 @@ for i, item in enumerate(selected, start=1):
             "| Valid values:", metadata["valid_records"]
         )
 
+    
+    except requests.HTTPError as exc:
+
+        if exc.response.status_code == 429:
+
+            # Preserve the fact that the request was
+            # rate-limited, not that data were missing.
+            results[key].update({
+                "status": "rate_limited",
+                "error": "USGS HTTP 429 rate limit"
+            })
+
+            save_report()
+
+            print(
+                "\nUSGS request limit reached. "
+                "Batch stopped to preserve progress."
+            )
+
+            raise SystemExit(1)
+
+        # Other HTTP errors are recorded as failures.
+        results[key].update({
+            "status": "failed",
+            "error": str(exc)
+        })
+
+        print("HTTP request failed:", exc)
+
     except Exception as exc:
 
         # Record errors without stopping the batch.
@@ -785,7 +851,7 @@ for i, item in enumerate(selected, start=1):
 
     # Brief spacing between requests.
     if not VALIDATION_ONLY:
-        time.sleep(1)
+        time.sleep(3)
 
 
 # SECTION 11: Final summary

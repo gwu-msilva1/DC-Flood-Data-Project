@@ -1,0 +1,31 @@
+{
+    "station_id": "USGS-01648010",
+    "station_name": "Rock Creek at Joyce Road",
+    "event_id": "FLOOD_123",
+    "parameter_code": "00065",
+    "variable": "gauge height",
+    "status": "available",
+    "window_start_utc": "2025-07-08T22:54:00Z",
+    "window_end_utc": "2025-07-10T23:45:00Z",
+    "records": 587,
+    "valid_records": 587,
+    "units": [
+        "ft"
+    ],
+    "approval_statuses": {
+        "Approved": 587
+    },
+    "time_series_ids": [
+        "c7a4d91eaa034b0b9e00fe394236c658"
+    ],
+    "api_url": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/continuous/items",
+    "api_parameters": {
+        "f": "json",
+        "monitoring_location_id": "USGS-01648010",
+        "parameter_code": "00065",
+        "datetime": "2025-07-08T22:54:00Z/2025-07-10T23:45:00Z",
+        "limit": 1000
+    },
+    "retrieved_at_utc": "2026-10-30T04:32:01.765091+00:00",
+    "timestamp_note": "USGS times in UTC; event index uses instructor-specified fixed EST."
+}

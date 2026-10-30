@@ -1,0 +1,31 @@
+{
+    "station_id": "USGS-01648000",
+    "station_name": "Rock Creek at Sherrill Drive",
+    "event_id": "FLOOD_060",
+    "parameter_code": "00065",
+    "variable": "gauge height",
+    "status": "available",
+    "window_start_utc": "2013-06-27T20:10:00Z",
+    "window_end_utc": "2013-06-30T01:06:00Z",
+    "records": 212,
+    "valid_records": 212,
+    "units": [
+        "ft"
+    ],
+    "approval_statuses": {
+        "Approved": 212
+    },
+    "time_series_ids": [
+        "4673ba86ee7345a48e5ce0fd3de595a7"
+    ],
+    "api_url": "https://api.waterdata.usgs.gov/ogcapi/v1/collections/continuous/items",
+    "api_parameters": {
+        "f": "json",
+        "monitoring_location_id": "USGS-01648000",
+        "parameter_code": "00065",
+        "datetime": "2013-06-27T20:10:00Z/2013-06-30T01:06:00Z",
+        "limit": 1000
+    },
+    "retrieved_at_utc": "2026-10-30T05:22:32.405076+00:00",
+    "timestamp_note": "USGS observations are stored in UTC. Flood-event timestamps use instructor-specified fixed EST (UTC-5)."
+}
