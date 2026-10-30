@@ -1,0 +1,102 @@
+{
+    "database": "C:\\Users\\meg93\\DC Flood Data Project\\data\\hdf5\\dc_flood_data.h5",
+    "top_level_groups": [
+        "events",
+        "gauges",
+        "metadata",
+        "precipitation"
+    ],
+    "database_attributes": {
+        "created_utc": "2026-10-30T06:15:25.872736+00:00",
+        "database_version": "1.0",
+        "description": "DC flood events with PRISM precipitation and USGS gauge-height observations.",
+        "event_count": 125,
+        "flood_time_convention": "Fixed EST, UTC-5, including summer",
+        "gauge_dataset_count": 192,
+        "gauge_observation_count": 59990,
+        "observation_time_convention": "UTC",
+        "project": "DC Flood Data Project",
+        "raster_count": 372,
+        "test_mode": false
+    },
+    "object_count": 3292,
+    "relevant_attribute_counts": {
+        "source": 2,
+        "units": 194,
+        "source_file": 564,
+        "station_id": 192,
+        "nominal_resolution": 1,
+        "bounds": 372,
+        "crs": 372,
+        "transform": 372
+    },
+    "examples": {
+        "event": {
+            "path": "/events/FLOOD_125",
+            "found": true,
+            "type": "group",
+            "attributes": {},
+            "children": [
+                "record_json"
+            ]
+        },
+        "precipitation": {
+            "path": "/precipitation/20250719",
+            "found": true,
+            "type": "group",
+            "attributes": {
+                "bounds": [
+                    -77.20416666857952,
+                    38.779166667112506,
+                    -76.85416666859352,
+                    39.0208333337695
+                ],
+                "crs": "EPSG:4269",
+                "height": 29,
+                "pixel_spacing": [
+                    0.008333333333,
+                    0.008333333333
+                ],
+                "source_file": "prism_ppt_800m_20250719_dc.tif",
+                "transform": [
+                    0.008333333333,
+                    0.0,
+                    -77.20416666857952,
+                    0.0,
+                    -0.008333333333,
+                    39.0208333337695,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "width": 42
+            },
+            "children": [
+                "metadata_json",
+                "valid_mask",
+                "values"
+            ]
+        },
+        "gauge": {
+            "path": "/gauges/01648010/FLOOD_125",
+            "found": true,
+            "type": "group",
+            "attributes": {
+                "event_id": "FLOOD_125",
+                "record_count": 595,
+                "source_file": "gauge_USGS-01648010_FLOOD_125.csv",
+                "station_id": "01648010",
+                "units": "ft"
+            },
+            "children": [
+                "approval_status",
+                "gauge_height",
+                "metadata_json",
+                "qualifier",
+                "time_series_id",
+                "time_utc",
+                "unit"
+            ]
+        }
+    }
+}
