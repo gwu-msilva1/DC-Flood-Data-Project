@@ -1,0 +1,9 @@
+{
+    "event_id": "FLOOD_125",
+    "source": "PRISM",
+    "requested_dates": 1,
+    "available_dates": 1,
+    "missing_dates": [],
+    "coverage_fraction": 1.0,
+    "note": "Coverage counts stored calendar dates, not proof of exact accumulation overlap."
+}
