@@ -1,0 +1,10 @@
+test,passed,details
+Historical flood event retrieval,True,Retrieved event: FLOOD_039
+Historical gauge retrieval,True,"Rows: 241, valid heights: 241"
+Station retrieval: Joyce Road,True,Observations: 595
+Station retrieval: Buzzard Point,True,Observations: 595
+Station retrieval: Kenilworth,True,Observations: 595
+Unavailable station-event handling,True,Expected error handled: No gauge dataset stored for 01651760 / FLOOD_001
+Historical PRISM retrieval,True,"Shape: (29, 42), valid cells: 1218"
+PRISM date inventory,True,Dates found: 372
+Kenilworth event inventory,True,Events found: 3

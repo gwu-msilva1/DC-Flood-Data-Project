@@ -1,0 +1,9 @@
+{
+    "database_file": "C:\\Users\\meg93\\DC Flood Data Project\\data\\hdf5\\dc_flood_data.h5",
+    "total_checks": 4101,
+    "passed_checks": 4101,
+    "failed_checks": 0,
+    "source_events": 125,
+    "source_rasters": 372,
+    "source_gauge_files": 192
+}

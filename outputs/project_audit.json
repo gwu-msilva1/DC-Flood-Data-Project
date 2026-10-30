@@ -1,0 +1,38 @@
+{
+    "required_files": {
+        "Cleaned flood events": true,
+        "USGS station inventory": true,
+        "HDF5 database": true,
+        "HDF5 integrity report": true,
+        "HDF5 reusability report": true,
+        "README": true,
+        "Requirements": true,
+        "Git ignore": true
+    },
+    "data_counts": {
+        "prism_rasters": 372,
+        "gauge_csv_files": 192,
+        "gauge_metadata_files": 192,
+        "python_scripts": 23,
+        "png_figures": 5
+    },
+    "database": {
+        "events": 125,
+        "rasters": 372,
+        "gauge_datasets": 192,
+        "gauge_observations": 59990,
+        "file_size_mb": 20.57
+    },
+    "validation": {
+        "integrity": {
+            "checks": 4101,
+            "passed": 4101,
+            "failed": 0
+        },
+        "reusability": {
+            "checks": 9,
+            "passed": 9,
+            "failed": 0
+        }
+    }
+}

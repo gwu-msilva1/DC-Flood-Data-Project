@@ -1,0 +1,6 @@
+{
+    "total_tests": 9,
+    "passed_tests": 9,
+    "failed_tests": 0,
+    "database": "data/hdf5/dc_flood_data.h5"
+}
