@@ -27,7 +27,7 @@ RASTER_DIR.mkdir(parents=True, exist_ok=True)
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 RESOLUTION = "800m"
-MAX_DATES = 10
+MAX_DATES = None
 BUFFER_DAYS = 1
 MAX_ATTEMPTS = 3
 

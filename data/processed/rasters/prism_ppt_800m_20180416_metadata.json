@@ -1,0 +1,30 @@
+{
+    "source": "PRISM Climate Group",
+    "variable": "ppt",
+    "units": "mm",
+    "date": "20180416",
+    "resolution_product": "800m",
+    "crs": "EPSG:4269",
+    "native_resolution": [
+        0.008333333333,
+        0.008333333333
+    ],
+    "source_nodata": -9999.0,
+    "temporal_resolution": "daily",
+    "day_boundary": "Not independently verified",
+    "study_bbox_lonlat": [
+        -77.2,
+        38.78,
+        -76.85,
+        39.02
+    ],
+    "download_url": "https://services.nacse.org/prism/data/get/us/800m/ppt/20180416",
+    "retrieved_at_utc": "2026-10-30T03:22:14.513406+00:00",
+    "event_ids": [
+        "FLOOD_079"
+    ],
+    "total_cells": 1218,
+    "valid_cells": 1218,
+    "missing_cells": 0,
+    "output_file": "prism_ppt_800m_20180416_dc.tif"
+}
