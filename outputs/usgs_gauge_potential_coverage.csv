@@ -1,0 +1,501 @@
+station_id,station_name,event_id,event_begin,event_end,potential_coverage
+01648000,Rock Creek at Sherrill Drive,FLOOD_001,1996-01-19,1996-01-19,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_002,1996-01-20,1996-01-23,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_003,1996-06-18,1996-06-18,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_004,1996-06-20,1996-06-20,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_005,1996-09-06,1996-09-06,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_006,1996-09-07,1996-09-10,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_007,1996-11-08,1996-11-08,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_008,1997-05-25,1997-05-25,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_009,1998-02-04,1998-02-05,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_010,1998-03-09,1998-03-09,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_011,1998-06-23,1998-06-23,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_012,1999-08-25,1999-08-25,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_013,1999-09-16,1999-09-16,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_014,2001-06-22,2001-06-22,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_015,2001-08-10,2001-08-10,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_016,2001-08-11,2001-08-11,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_017,2003-02-22,2003-02-23,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_018,2003-03-20,2003-03-20,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_019,2003-05-16,2003-05-16,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_020,2003-06-12,2003-06-12,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_021,2003-06-20,2003-06-20,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_022,2003-07-10,2003-07-11,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_023,2003-09-23,2003-09-24,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_024,2003-11-19,2003-11-19,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_025,2004-06-17,2004-06-17,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_026,2004-07-04,2004-07-04,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_027,2004-07-27,2004-07-28,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_028,2004-08-11,2004-08-11,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_029,2005-01-14,2005-01-14,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_030,2005-04-02,2005-04-02,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_031,2005-04-03,2005-04-03,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_032,2005-07-06,2005-07-07,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_033,2005-07-08,2005-07-08,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_034,2005-10-08,2005-10-08,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_035,2006-06-25,2006-06-27,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_036,2006-07-05,2006-07-05,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_037,2006-11-16,2006-11-16,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_038,2007-04-15,2007-04-15,False
+01648000,Rock Creek at Sherrill Drive,FLOOD_039,2008-05-12,2008-05-12,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_040,2008-07-23,2008-07-23,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_041,2008-09-06,2008-09-06,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_042,2009-05-26,2009-05-26,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_043,2009-06-09,2009-06-09,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_044,2010-08-12,2010-08-12,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_045,2010-08-18,2010-08-18,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_046,2010-09-30,2010-09-30,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_047,2010-10-27,2010-10-27,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_048,2010-12-01,2010-12-01,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_049,2011-02-02,2011-02-02,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_050,2011-08-28,2011-08-28,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_051,2011-09-07,2011-09-07,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_052,2012-06-01,2012-06-01,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_053,2012-07-10,2012-07-10,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_054,2012-07-18,2012-07-18,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_055,2012-07-19,2012-07-19,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_056,2012-09-02,2012-09-02,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_057,2012-09-08,2012-09-08,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_058,2012-10-29,2012-10-30,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_059,2013-05-28,2013-05-28,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_060,2013-06-28,2013-06-28,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_061,2013-07-12,2013-07-12,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_062,2014-04-30,2014-04-30,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_063,2014-05-01,2014-05-01,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_064,2014-05-16,2014-05-16,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_065,2014-06-10,2014-06-10,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_066,2014-08-12,2014-08-12,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_067,2015-06-27,2015-06-27,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_068,2016-02-24,2016-02-24,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_069,2016-05-02,2016-05-03,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_070,2016-06-21,2016-06-21,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_071,2016-07-19,2016-07-20,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_072,2016-07-20,2016-07-20,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_073,2017-05-05,2017-05-05,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_074,2017-07-28,2017-07-29,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_075,2017-07-29,2017-07-29,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_076,2017-08-01,2017-08-01,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_077,2017-08-15,2017-08-15,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_078,2017-08-18,2017-08-18,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_079,2018-04-16,2018-04-16,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_080,2018-05-22,2018-05-22,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_081,2018-06-03,2018-06-03,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_082,2018-07-21,2018-07-22,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_083,2018-07-22,2018-07-22,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_084,2018-07-25,2018-07-25,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_085,2018-08-02,2018-08-02,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_086,2018-08-07,2018-08-07,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_087,2018-08-21,2018-08-21,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_088,2018-09-07,2018-09-08,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_089,2018-09-18,2018-09-18,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_090,2018-11-24,2018-11-25,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_091,2018-12-15,2018-12-16,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_092,2019-03-21,2019-03-22,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_093,2019-07-08,2019-07-08,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_094,2019-11-01,2019-11-01,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_095,2020-06-05,2020-06-05,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_096,2020-07-06,2020-07-07,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_097,2020-08-04,2020-08-04,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_098,2020-09-10,2020-09-10,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_099,2020-11-12,2020-11-12,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_100,2020-12-25,2020-12-25,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_101,2021-07-01,2021-07-01,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_102,2021-07-09,2021-07-09,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_103,2021-08-16,2021-08-17,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_104,2021-08-20,2021-08-20,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_105,2021-08-21,2021-08-21,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_106,2021-09-01,2021-09-01,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_107,2021-09-16,2021-09-16,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_108,2021-09-23,2021-09-23,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_109,2022-06-02,2022-06-02,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_110,2022-06-23,2022-06-23,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_111,2022-07-02,2022-07-03,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_112,2022-07-03,2022-07-03,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_113,2022-07-09,2022-07-09,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_114,2022-07-16,2022-07-16,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_115,2022-08-04,2022-08-05,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_116,2022-08-05,2022-08-05,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_117,2022-08-10,2022-08-10,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_118,2023-08-14,2023-08-14,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_119,2023-09-09,2023-09-09,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_120,2023-12-17,2023-12-18,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_121,2024-01-09,2024-01-10,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_122,2024-01-28,2024-01-28,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_123,2025-07-09,2025-07-09,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_124,2025-07-13,2025-07-13,True
+01648000,Rock Creek at Sherrill Drive,FLOOD_125,2025-07-19,2025-07-19,True
+01648010,Rock Creek at Joyce Road,FLOOD_001,1996-01-19,1996-01-19,False
+01648010,Rock Creek at Joyce Road,FLOOD_002,1996-01-20,1996-01-23,False
+01648010,Rock Creek at Joyce Road,FLOOD_003,1996-06-18,1996-06-18,False
+01648010,Rock Creek at Joyce Road,FLOOD_004,1996-06-20,1996-06-20,False
+01648010,Rock Creek at Joyce Road,FLOOD_005,1996-09-06,1996-09-06,False
+01648010,Rock Creek at Joyce Road,FLOOD_006,1996-09-07,1996-09-10,False
+01648010,Rock Creek at Joyce Road,FLOOD_007,1996-11-08,1996-11-08,False
+01648010,Rock Creek at Joyce Road,FLOOD_008,1997-05-25,1997-05-25,False
+01648010,Rock Creek at Joyce Road,FLOOD_009,1998-02-04,1998-02-05,False
+01648010,Rock Creek at Joyce Road,FLOOD_010,1998-03-09,1998-03-09,False
+01648010,Rock Creek at Joyce Road,FLOOD_011,1998-06-23,1998-06-23,False
+01648010,Rock Creek at Joyce Road,FLOOD_012,1999-08-25,1999-08-25,False
+01648010,Rock Creek at Joyce Road,FLOOD_013,1999-09-16,1999-09-16,False
+01648010,Rock Creek at Joyce Road,FLOOD_014,2001-06-22,2001-06-22,False
+01648010,Rock Creek at Joyce Road,FLOOD_015,2001-08-10,2001-08-10,False
+01648010,Rock Creek at Joyce Road,FLOOD_016,2001-08-11,2001-08-11,False
+01648010,Rock Creek at Joyce Road,FLOOD_017,2003-02-22,2003-02-23,False
+01648010,Rock Creek at Joyce Road,FLOOD_018,2003-03-20,2003-03-20,False
+01648010,Rock Creek at Joyce Road,FLOOD_019,2003-05-16,2003-05-16,False
+01648010,Rock Creek at Joyce Road,FLOOD_020,2003-06-12,2003-06-12,False
+01648010,Rock Creek at Joyce Road,FLOOD_021,2003-06-20,2003-06-20,False
+01648010,Rock Creek at Joyce Road,FLOOD_022,2003-07-10,2003-07-11,False
+01648010,Rock Creek at Joyce Road,FLOOD_023,2003-09-23,2003-09-24,False
+01648010,Rock Creek at Joyce Road,FLOOD_024,2003-11-19,2003-11-19,False
+01648010,Rock Creek at Joyce Road,FLOOD_025,2004-06-17,2004-06-17,False
+01648010,Rock Creek at Joyce Road,FLOOD_026,2004-07-04,2004-07-04,False
+01648010,Rock Creek at Joyce Road,FLOOD_027,2004-07-27,2004-07-28,False
+01648010,Rock Creek at Joyce Road,FLOOD_028,2004-08-11,2004-08-11,False
+01648010,Rock Creek at Joyce Road,FLOOD_029,2005-01-14,2005-01-14,False
+01648010,Rock Creek at Joyce Road,FLOOD_030,2005-04-02,2005-04-02,False
+01648010,Rock Creek at Joyce Road,FLOOD_031,2005-04-03,2005-04-03,False
+01648010,Rock Creek at Joyce Road,FLOOD_032,2005-07-06,2005-07-07,False
+01648010,Rock Creek at Joyce Road,FLOOD_033,2005-07-08,2005-07-08,False
+01648010,Rock Creek at Joyce Road,FLOOD_034,2005-10-08,2005-10-08,False
+01648010,Rock Creek at Joyce Road,FLOOD_035,2006-06-25,2006-06-27,False
+01648010,Rock Creek at Joyce Road,FLOOD_036,2006-07-05,2006-07-05,False
+01648010,Rock Creek at Joyce Road,FLOOD_037,2006-11-16,2006-11-16,False
+01648010,Rock Creek at Joyce Road,FLOOD_038,2007-04-15,2007-04-15,False
+01648010,Rock Creek at Joyce Road,FLOOD_039,2008-05-12,2008-05-12,False
+01648010,Rock Creek at Joyce Road,FLOOD_040,2008-07-23,2008-07-23,False
+01648010,Rock Creek at Joyce Road,FLOOD_041,2008-09-06,2008-09-06,False
+01648010,Rock Creek at Joyce Road,FLOOD_042,2009-05-26,2009-05-26,False
+01648010,Rock Creek at Joyce Road,FLOOD_043,2009-06-09,2009-06-09,False
+01648010,Rock Creek at Joyce Road,FLOOD_044,2010-08-12,2010-08-12,False
+01648010,Rock Creek at Joyce Road,FLOOD_045,2010-08-18,2010-08-18,False
+01648010,Rock Creek at Joyce Road,FLOOD_046,2010-09-30,2010-09-30,False
+01648010,Rock Creek at Joyce Road,FLOOD_047,2010-10-27,2010-10-27,False
+01648010,Rock Creek at Joyce Road,FLOOD_048,2010-12-01,2010-12-01,False
+01648010,Rock Creek at Joyce Road,FLOOD_049,2011-02-02,2011-02-02,False
+01648010,Rock Creek at Joyce Road,FLOOD_050,2011-08-28,2011-08-28,False
+01648010,Rock Creek at Joyce Road,FLOOD_051,2011-09-07,2011-09-07,False
+01648010,Rock Creek at Joyce Road,FLOOD_052,2012-06-01,2012-06-01,False
+01648010,Rock Creek at Joyce Road,FLOOD_053,2012-07-10,2012-07-10,False
+01648010,Rock Creek at Joyce Road,FLOOD_054,2012-07-18,2012-07-18,False
+01648010,Rock Creek at Joyce Road,FLOOD_055,2012-07-19,2012-07-19,False
+01648010,Rock Creek at Joyce Road,FLOOD_056,2012-09-02,2012-09-02,False
+01648010,Rock Creek at Joyce Road,FLOOD_057,2012-09-08,2012-09-08,False
+01648010,Rock Creek at Joyce Road,FLOOD_058,2012-10-29,2012-10-30,True
+01648010,Rock Creek at Joyce Road,FLOOD_059,2013-05-28,2013-05-28,True
+01648010,Rock Creek at Joyce Road,FLOOD_060,2013-06-28,2013-06-28,True
+01648010,Rock Creek at Joyce Road,FLOOD_061,2013-07-12,2013-07-12,True
+01648010,Rock Creek at Joyce Road,FLOOD_062,2014-04-30,2014-04-30,True
+01648010,Rock Creek at Joyce Road,FLOOD_063,2014-05-01,2014-05-01,True
+01648010,Rock Creek at Joyce Road,FLOOD_064,2014-05-16,2014-05-16,True
+01648010,Rock Creek at Joyce Road,FLOOD_065,2014-06-10,2014-06-10,True
+01648010,Rock Creek at Joyce Road,FLOOD_066,2014-08-12,2014-08-12,True
+01648010,Rock Creek at Joyce Road,FLOOD_067,2015-06-27,2015-06-27,True
+01648010,Rock Creek at Joyce Road,FLOOD_068,2016-02-24,2016-02-24,True
+01648010,Rock Creek at Joyce Road,FLOOD_069,2016-05-02,2016-05-03,True
+01648010,Rock Creek at Joyce Road,FLOOD_070,2016-06-21,2016-06-21,True
+01648010,Rock Creek at Joyce Road,FLOOD_071,2016-07-19,2016-07-20,True
+01648010,Rock Creek at Joyce Road,FLOOD_072,2016-07-20,2016-07-20,True
+01648010,Rock Creek at Joyce Road,FLOOD_073,2017-05-05,2017-05-05,True
+01648010,Rock Creek at Joyce Road,FLOOD_074,2017-07-28,2017-07-29,True
+01648010,Rock Creek at Joyce Road,FLOOD_075,2017-07-29,2017-07-29,True
+01648010,Rock Creek at Joyce Road,FLOOD_076,2017-08-01,2017-08-01,True
+01648010,Rock Creek at Joyce Road,FLOOD_077,2017-08-15,2017-08-15,True
+01648010,Rock Creek at Joyce Road,FLOOD_078,2017-08-18,2017-08-18,True
+01648010,Rock Creek at Joyce Road,FLOOD_079,2018-04-16,2018-04-16,True
+01648010,Rock Creek at Joyce Road,FLOOD_080,2018-05-22,2018-05-22,True
+01648010,Rock Creek at Joyce Road,FLOOD_081,2018-06-03,2018-06-03,True
+01648010,Rock Creek at Joyce Road,FLOOD_082,2018-07-21,2018-07-22,True
+01648010,Rock Creek at Joyce Road,FLOOD_083,2018-07-22,2018-07-22,True
+01648010,Rock Creek at Joyce Road,FLOOD_084,2018-07-25,2018-07-25,True
+01648010,Rock Creek at Joyce Road,FLOOD_085,2018-08-02,2018-08-02,True
+01648010,Rock Creek at Joyce Road,FLOOD_086,2018-08-07,2018-08-07,True
+01648010,Rock Creek at Joyce Road,FLOOD_087,2018-08-21,2018-08-21,True
+01648010,Rock Creek at Joyce Road,FLOOD_088,2018-09-07,2018-09-08,True
+01648010,Rock Creek at Joyce Road,FLOOD_089,2018-09-18,2018-09-18,True
+01648010,Rock Creek at Joyce Road,FLOOD_090,2018-11-24,2018-11-25,True
+01648010,Rock Creek at Joyce Road,FLOOD_091,2018-12-15,2018-12-16,True
+01648010,Rock Creek at Joyce Road,FLOOD_092,2019-03-21,2019-03-22,True
+01648010,Rock Creek at Joyce Road,FLOOD_093,2019-07-08,2019-07-08,True
+01648010,Rock Creek at Joyce Road,FLOOD_094,2019-11-01,2019-11-01,True
+01648010,Rock Creek at Joyce Road,FLOOD_095,2020-06-05,2020-06-05,True
+01648010,Rock Creek at Joyce Road,FLOOD_096,2020-07-06,2020-07-07,True
+01648010,Rock Creek at Joyce Road,FLOOD_097,2020-08-04,2020-08-04,True
+01648010,Rock Creek at Joyce Road,FLOOD_098,2020-09-10,2020-09-10,True
+01648010,Rock Creek at Joyce Road,FLOOD_099,2020-11-12,2020-11-12,True
+01648010,Rock Creek at Joyce Road,FLOOD_100,2020-12-25,2020-12-25,True
+01648010,Rock Creek at Joyce Road,FLOOD_101,2021-07-01,2021-07-01,True
+01648010,Rock Creek at Joyce Road,FLOOD_102,2021-07-09,2021-07-09,True
+01648010,Rock Creek at Joyce Road,FLOOD_103,2021-08-16,2021-08-17,True
+01648010,Rock Creek at Joyce Road,FLOOD_104,2021-08-20,2021-08-20,True
+01648010,Rock Creek at Joyce Road,FLOOD_105,2021-08-21,2021-08-21,True
+01648010,Rock Creek at Joyce Road,FLOOD_106,2021-09-01,2021-09-01,True
+01648010,Rock Creek at Joyce Road,FLOOD_107,2021-09-16,2021-09-16,True
+01648010,Rock Creek at Joyce Road,FLOOD_108,2021-09-23,2021-09-23,True
+01648010,Rock Creek at Joyce Road,FLOOD_109,2022-06-02,2022-06-02,True
+01648010,Rock Creek at Joyce Road,FLOOD_110,2022-06-23,2022-06-23,True
+01648010,Rock Creek at Joyce Road,FLOOD_111,2022-07-02,2022-07-03,True
+01648010,Rock Creek at Joyce Road,FLOOD_112,2022-07-03,2022-07-03,True
+01648010,Rock Creek at Joyce Road,FLOOD_113,2022-07-09,2022-07-09,True
+01648010,Rock Creek at Joyce Road,FLOOD_114,2022-07-16,2022-07-16,True
+01648010,Rock Creek at Joyce Road,FLOOD_115,2022-08-04,2022-08-05,True
+01648010,Rock Creek at Joyce Road,FLOOD_116,2022-08-05,2022-08-05,True
+01648010,Rock Creek at Joyce Road,FLOOD_117,2022-08-10,2022-08-10,True
+01648010,Rock Creek at Joyce Road,FLOOD_118,2023-08-14,2023-08-14,True
+01648010,Rock Creek at Joyce Road,FLOOD_119,2023-09-09,2023-09-09,True
+01648010,Rock Creek at Joyce Road,FLOOD_120,2023-12-17,2023-12-18,True
+01648010,Rock Creek at Joyce Road,FLOOD_121,2024-01-09,2024-01-10,True
+01648010,Rock Creek at Joyce Road,FLOOD_122,2024-01-28,2024-01-28,True
+01648010,Rock Creek at Joyce Road,FLOOD_123,2025-07-09,2025-07-09,True
+01648010,Rock Creek at Joyce Road,FLOOD_124,2025-07-13,2025-07-13,True
+01648010,Rock Creek at Joyce Road,FLOOD_125,2025-07-19,2025-07-19,True
+01651827,Anacostia River near Buzzard Point,FLOOD_001,1996-01-19,1996-01-19,False
+01651827,Anacostia River near Buzzard Point,FLOOD_002,1996-01-20,1996-01-23,False
+01651827,Anacostia River near Buzzard Point,FLOOD_003,1996-06-18,1996-06-18,False
+01651827,Anacostia River near Buzzard Point,FLOOD_004,1996-06-20,1996-06-20,False
+01651827,Anacostia River near Buzzard Point,FLOOD_005,1996-09-06,1996-09-06,False
+01651827,Anacostia River near Buzzard Point,FLOOD_006,1996-09-07,1996-09-10,False
+01651827,Anacostia River near Buzzard Point,FLOOD_007,1996-11-08,1996-11-08,False
+01651827,Anacostia River near Buzzard Point,FLOOD_008,1997-05-25,1997-05-25,False
+01651827,Anacostia River near Buzzard Point,FLOOD_009,1998-02-04,1998-02-05,False
+01651827,Anacostia River near Buzzard Point,FLOOD_010,1998-03-09,1998-03-09,False
+01651827,Anacostia River near Buzzard Point,FLOOD_011,1998-06-23,1998-06-23,False
+01651827,Anacostia River near Buzzard Point,FLOOD_012,1999-08-25,1999-08-25,False
+01651827,Anacostia River near Buzzard Point,FLOOD_013,1999-09-16,1999-09-16,False
+01651827,Anacostia River near Buzzard Point,FLOOD_014,2001-06-22,2001-06-22,False
+01651827,Anacostia River near Buzzard Point,FLOOD_015,2001-08-10,2001-08-10,False
+01651827,Anacostia River near Buzzard Point,FLOOD_016,2001-08-11,2001-08-11,False
+01651827,Anacostia River near Buzzard Point,FLOOD_017,2003-02-22,2003-02-23,False
+01651827,Anacostia River near Buzzard Point,FLOOD_018,2003-03-20,2003-03-20,False
+01651827,Anacostia River near Buzzard Point,FLOOD_019,2003-05-16,2003-05-16,False
+01651827,Anacostia River near Buzzard Point,FLOOD_020,2003-06-12,2003-06-12,False
+01651827,Anacostia River near Buzzard Point,FLOOD_021,2003-06-20,2003-06-20,False
+01651827,Anacostia River near Buzzard Point,FLOOD_022,2003-07-10,2003-07-11,False
+01651827,Anacostia River near Buzzard Point,FLOOD_023,2003-09-23,2003-09-24,False
+01651827,Anacostia River near Buzzard Point,FLOOD_024,2003-11-19,2003-11-19,False
+01651827,Anacostia River near Buzzard Point,FLOOD_025,2004-06-17,2004-06-17,False
+01651827,Anacostia River near Buzzard Point,FLOOD_026,2004-07-04,2004-07-04,False
+01651827,Anacostia River near Buzzard Point,FLOOD_027,2004-07-27,2004-07-28,False
+01651827,Anacostia River near Buzzard Point,FLOOD_028,2004-08-11,2004-08-11,False
+01651827,Anacostia River near Buzzard Point,FLOOD_029,2005-01-14,2005-01-14,False
+01651827,Anacostia River near Buzzard Point,FLOOD_030,2005-04-02,2005-04-02,False
+01651827,Anacostia River near Buzzard Point,FLOOD_031,2005-04-03,2005-04-03,False
+01651827,Anacostia River near Buzzard Point,FLOOD_032,2005-07-06,2005-07-07,False
+01651827,Anacostia River near Buzzard Point,FLOOD_033,2005-07-08,2005-07-08,False
+01651827,Anacostia River near Buzzard Point,FLOOD_034,2005-10-08,2005-10-08,False
+01651827,Anacostia River near Buzzard Point,FLOOD_035,2006-06-25,2006-06-27,False
+01651827,Anacostia River near Buzzard Point,FLOOD_036,2006-07-05,2006-07-05,False
+01651827,Anacostia River near Buzzard Point,FLOOD_037,2006-11-16,2006-11-16,False
+01651827,Anacostia River near Buzzard Point,FLOOD_038,2007-04-15,2007-04-15,False
+01651827,Anacostia River near Buzzard Point,FLOOD_039,2008-05-12,2008-05-12,False
+01651827,Anacostia River near Buzzard Point,FLOOD_040,2008-07-23,2008-07-23,False
+01651827,Anacostia River near Buzzard Point,FLOOD_041,2008-09-06,2008-09-06,False
+01651827,Anacostia River near Buzzard Point,FLOOD_042,2009-05-26,2009-05-26,False
+01651827,Anacostia River near Buzzard Point,FLOOD_043,2009-06-09,2009-06-09,False
+01651827,Anacostia River near Buzzard Point,FLOOD_044,2010-08-12,2010-08-12,False
+01651827,Anacostia River near Buzzard Point,FLOOD_045,2010-08-18,2010-08-18,False
+01651827,Anacostia River near Buzzard Point,FLOOD_046,2010-09-30,2010-09-30,False
+01651827,Anacostia River near Buzzard Point,FLOOD_047,2010-10-27,2010-10-27,False
+01651827,Anacostia River near Buzzard Point,FLOOD_048,2010-12-01,2010-12-01,False
+01651827,Anacostia River near Buzzard Point,FLOOD_049,2011-02-02,2011-02-02,False
+01651827,Anacostia River near Buzzard Point,FLOOD_050,2011-08-28,2011-08-28,False
+01651827,Anacostia River near Buzzard Point,FLOOD_051,2011-09-07,2011-09-07,False
+01651827,Anacostia River near Buzzard Point,FLOOD_052,2012-06-01,2012-06-01,False
+01651827,Anacostia River near Buzzard Point,FLOOD_053,2012-07-10,2012-07-10,False
+01651827,Anacostia River near Buzzard Point,FLOOD_054,2012-07-18,2012-07-18,False
+01651827,Anacostia River near Buzzard Point,FLOOD_055,2012-07-19,2012-07-19,False
+01651827,Anacostia River near Buzzard Point,FLOOD_056,2012-09-02,2012-09-02,False
+01651827,Anacostia River near Buzzard Point,FLOOD_057,2012-09-08,2012-09-08,False
+01651827,Anacostia River near Buzzard Point,FLOOD_058,2012-10-29,2012-10-30,False
+01651827,Anacostia River near Buzzard Point,FLOOD_059,2013-05-28,2013-05-28,False
+01651827,Anacostia River near Buzzard Point,FLOOD_060,2013-06-28,2013-06-28,False
+01651827,Anacostia River near Buzzard Point,FLOOD_061,2013-07-12,2013-07-12,False
+01651827,Anacostia River near Buzzard Point,FLOOD_062,2014-04-30,2014-04-30,False
+01651827,Anacostia River near Buzzard Point,FLOOD_063,2014-05-01,2014-05-01,False
+01651827,Anacostia River near Buzzard Point,FLOOD_064,2014-05-16,2014-05-16,False
+01651827,Anacostia River near Buzzard Point,FLOOD_065,2014-06-10,2014-06-10,False
+01651827,Anacostia River near Buzzard Point,FLOOD_066,2014-08-12,2014-08-12,False
+01651827,Anacostia River near Buzzard Point,FLOOD_067,2015-06-27,2015-06-27,False
+01651827,Anacostia River near Buzzard Point,FLOOD_068,2016-02-24,2016-02-24,False
+01651827,Anacostia River near Buzzard Point,FLOOD_069,2016-05-02,2016-05-03,False
+01651827,Anacostia River near Buzzard Point,FLOOD_070,2016-06-21,2016-06-21,False
+01651827,Anacostia River near Buzzard Point,FLOOD_071,2016-07-19,2016-07-20,False
+01651827,Anacostia River near Buzzard Point,FLOOD_072,2016-07-20,2016-07-20,False
+01651827,Anacostia River near Buzzard Point,FLOOD_073,2017-05-05,2017-05-05,False
+01651827,Anacostia River near Buzzard Point,FLOOD_074,2017-07-28,2017-07-29,False
+01651827,Anacostia River near Buzzard Point,FLOOD_075,2017-07-29,2017-07-29,False
+01651827,Anacostia River near Buzzard Point,FLOOD_076,2017-08-01,2017-08-01,False
+01651827,Anacostia River near Buzzard Point,FLOOD_077,2017-08-15,2017-08-15,False
+01651827,Anacostia River near Buzzard Point,FLOOD_078,2017-08-18,2017-08-18,False
+01651827,Anacostia River near Buzzard Point,FLOOD_079,2018-04-16,2018-04-16,False
+01651827,Anacostia River near Buzzard Point,FLOOD_080,2018-05-22,2018-05-22,False
+01651827,Anacostia River near Buzzard Point,FLOOD_081,2018-06-03,2018-06-03,False
+01651827,Anacostia River near Buzzard Point,FLOOD_082,2018-07-21,2018-07-22,False
+01651827,Anacostia River near Buzzard Point,FLOOD_083,2018-07-22,2018-07-22,False
+01651827,Anacostia River near Buzzard Point,FLOOD_084,2018-07-25,2018-07-25,False
+01651827,Anacostia River near Buzzard Point,FLOOD_085,2018-08-02,2018-08-02,False
+01651827,Anacostia River near Buzzard Point,FLOOD_086,2018-08-07,2018-08-07,False
+01651827,Anacostia River near Buzzard Point,FLOOD_087,2018-08-21,2018-08-21,False
+01651827,Anacostia River near Buzzard Point,FLOOD_088,2018-09-07,2018-09-08,False
+01651827,Anacostia River near Buzzard Point,FLOOD_089,2018-09-18,2018-09-18,False
+01651827,Anacostia River near Buzzard Point,FLOOD_090,2018-11-24,2018-11-25,False
+01651827,Anacostia River near Buzzard Point,FLOOD_091,2018-12-15,2018-12-16,False
+01651827,Anacostia River near Buzzard Point,FLOOD_092,2019-03-21,2019-03-22,True
+01651827,Anacostia River near Buzzard Point,FLOOD_093,2019-07-08,2019-07-08,True
+01651827,Anacostia River near Buzzard Point,FLOOD_094,2019-11-01,2019-11-01,True
+01651827,Anacostia River near Buzzard Point,FLOOD_095,2020-06-05,2020-06-05,True
+01651827,Anacostia River near Buzzard Point,FLOOD_096,2020-07-06,2020-07-07,True
+01651827,Anacostia River near Buzzard Point,FLOOD_097,2020-08-04,2020-08-04,True
+01651827,Anacostia River near Buzzard Point,FLOOD_098,2020-09-10,2020-09-10,True
+01651827,Anacostia River near Buzzard Point,FLOOD_099,2020-11-12,2020-11-12,True
+01651827,Anacostia River near Buzzard Point,FLOOD_100,2020-12-25,2020-12-25,True
+01651827,Anacostia River near Buzzard Point,FLOOD_101,2021-07-01,2021-07-01,True
+01651827,Anacostia River near Buzzard Point,FLOOD_102,2021-07-09,2021-07-09,True
+01651827,Anacostia River near Buzzard Point,FLOOD_103,2021-08-16,2021-08-17,True
+01651827,Anacostia River near Buzzard Point,FLOOD_104,2021-08-20,2021-08-20,True
+01651827,Anacostia River near Buzzard Point,FLOOD_105,2021-08-21,2021-08-21,True
+01651827,Anacostia River near Buzzard Point,FLOOD_106,2021-09-01,2021-09-01,True
+01651827,Anacostia River near Buzzard Point,FLOOD_107,2021-09-16,2021-09-16,True
+01651827,Anacostia River near Buzzard Point,FLOOD_108,2021-09-23,2021-09-23,True
+01651827,Anacostia River near Buzzard Point,FLOOD_109,2022-06-02,2022-06-02,True
+01651827,Anacostia River near Buzzard Point,FLOOD_110,2022-06-23,2022-06-23,True
+01651827,Anacostia River near Buzzard Point,FLOOD_111,2022-07-02,2022-07-03,True
+01651827,Anacostia River near Buzzard Point,FLOOD_112,2022-07-03,2022-07-03,True
+01651827,Anacostia River near Buzzard Point,FLOOD_113,2022-07-09,2022-07-09,True
+01651827,Anacostia River near Buzzard Point,FLOOD_114,2022-07-16,2022-07-16,True
+01651827,Anacostia River near Buzzard Point,FLOOD_115,2022-08-04,2022-08-05,True
+01651827,Anacostia River near Buzzard Point,FLOOD_116,2022-08-05,2022-08-05,True
+01651827,Anacostia River near Buzzard Point,FLOOD_117,2022-08-10,2022-08-10,True
+01651827,Anacostia River near Buzzard Point,FLOOD_118,2023-08-14,2023-08-14,True
+01651827,Anacostia River near Buzzard Point,FLOOD_119,2023-09-09,2023-09-09,True
+01651827,Anacostia River near Buzzard Point,FLOOD_120,2023-12-17,2023-12-18,True
+01651827,Anacostia River near Buzzard Point,FLOOD_121,2024-01-09,2024-01-10,True
+01651827,Anacostia River near Buzzard Point,FLOOD_122,2024-01-28,2024-01-28,True
+01651827,Anacostia River near Buzzard Point,FLOOD_123,2025-07-09,2025-07-09,True
+01651827,Anacostia River near Buzzard Point,FLOOD_124,2025-07-13,2025-07-13,True
+01651827,Anacostia River near Buzzard Point,FLOOD_125,2025-07-19,2025-07-19,True
+01651760,Anacostia River at Kenilworth,FLOOD_001,1996-01-19,1996-01-19,False
+01651760,Anacostia River at Kenilworth,FLOOD_002,1996-01-20,1996-01-23,False
+01651760,Anacostia River at Kenilworth,FLOOD_003,1996-06-18,1996-06-18,False
+01651760,Anacostia River at Kenilworth,FLOOD_004,1996-06-20,1996-06-20,False
+01651760,Anacostia River at Kenilworth,FLOOD_005,1996-09-06,1996-09-06,False
+01651760,Anacostia River at Kenilworth,FLOOD_006,1996-09-07,1996-09-10,False
+01651760,Anacostia River at Kenilworth,FLOOD_007,1996-11-08,1996-11-08,False
+01651760,Anacostia River at Kenilworth,FLOOD_008,1997-05-25,1997-05-25,False
+01651760,Anacostia River at Kenilworth,FLOOD_009,1998-02-04,1998-02-05,False
+01651760,Anacostia River at Kenilworth,FLOOD_010,1998-03-09,1998-03-09,False
+01651760,Anacostia River at Kenilworth,FLOOD_011,1998-06-23,1998-06-23,False
+01651760,Anacostia River at Kenilworth,FLOOD_012,1999-08-25,1999-08-25,False
+01651760,Anacostia River at Kenilworth,FLOOD_013,1999-09-16,1999-09-16,False
+01651760,Anacostia River at Kenilworth,FLOOD_014,2001-06-22,2001-06-22,False
+01651760,Anacostia River at Kenilworth,FLOOD_015,2001-08-10,2001-08-10,False
+01651760,Anacostia River at Kenilworth,FLOOD_016,2001-08-11,2001-08-11,False
+01651760,Anacostia River at Kenilworth,FLOOD_017,2003-02-22,2003-02-23,False
+01651760,Anacostia River at Kenilworth,FLOOD_018,2003-03-20,2003-03-20,False
+01651760,Anacostia River at Kenilworth,FLOOD_019,2003-05-16,2003-05-16,False
+01651760,Anacostia River at Kenilworth,FLOOD_020,2003-06-12,2003-06-12,False
+01651760,Anacostia River at Kenilworth,FLOOD_021,2003-06-20,2003-06-20,False
+01651760,Anacostia River at Kenilworth,FLOOD_022,2003-07-10,2003-07-11,False
+01651760,Anacostia River at Kenilworth,FLOOD_023,2003-09-23,2003-09-24,False
+01651760,Anacostia River at Kenilworth,FLOOD_024,2003-11-19,2003-11-19,False
+01651760,Anacostia River at Kenilworth,FLOOD_025,2004-06-17,2004-06-17,False
+01651760,Anacostia River at Kenilworth,FLOOD_026,2004-07-04,2004-07-04,False
+01651760,Anacostia River at Kenilworth,FLOOD_027,2004-07-27,2004-07-28,False
+01651760,Anacostia River at Kenilworth,FLOOD_028,2004-08-11,2004-08-11,False
+01651760,Anacostia River at Kenilworth,FLOOD_029,2005-01-14,2005-01-14,False
+01651760,Anacostia River at Kenilworth,FLOOD_030,2005-04-02,2005-04-02,False
+01651760,Anacostia River at Kenilworth,FLOOD_031,2005-04-03,2005-04-03,False
+01651760,Anacostia River at Kenilworth,FLOOD_032,2005-07-06,2005-07-07,False
+01651760,Anacostia River at Kenilworth,FLOOD_033,2005-07-08,2005-07-08,False
+01651760,Anacostia River at Kenilworth,FLOOD_034,2005-10-08,2005-10-08,False
+01651760,Anacostia River at Kenilworth,FLOOD_035,2006-06-25,2006-06-27,False
+01651760,Anacostia River at Kenilworth,FLOOD_036,2006-07-05,2006-07-05,False
+01651760,Anacostia River at Kenilworth,FLOOD_037,2006-11-16,2006-11-16,False
+01651760,Anacostia River at Kenilworth,FLOOD_038,2007-04-15,2007-04-15,False
+01651760,Anacostia River at Kenilworth,FLOOD_039,2008-05-12,2008-05-12,False
+01651760,Anacostia River at Kenilworth,FLOOD_040,2008-07-23,2008-07-23,False
+01651760,Anacostia River at Kenilworth,FLOOD_041,2008-09-06,2008-09-06,False
+01651760,Anacostia River at Kenilworth,FLOOD_042,2009-05-26,2009-05-26,False
+01651760,Anacostia River at Kenilworth,FLOOD_043,2009-06-09,2009-06-09,False
+01651760,Anacostia River at Kenilworth,FLOOD_044,2010-08-12,2010-08-12,False
+01651760,Anacostia River at Kenilworth,FLOOD_045,2010-08-18,2010-08-18,False
+01651760,Anacostia River at Kenilworth,FLOOD_046,2010-09-30,2010-09-30,False
+01651760,Anacostia River at Kenilworth,FLOOD_047,2010-10-27,2010-10-27,False
+01651760,Anacostia River at Kenilworth,FLOOD_048,2010-12-01,2010-12-01,False
+01651760,Anacostia River at Kenilworth,FLOOD_049,2011-02-02,2011-02-02,False
+01651760,Anacostia River at Kenilworth,FLOOD_050,2011-08-28,2011-08-28,False
+01651760,Anacostia River at Kenilworth,FLOOD_051,2011-09-07,2011-09-07,False
+01651760,Anacostia River at Kenilworth,FLOOD_052,2012-06-01,2012-06-01,False
+01651760,Anacostia River at Kenilworth,FLOOD_053,2012-07-10,2012-07-10,False
+01651760,Anacostia River at Kenilworth,FLOOD_054,2012-07-18,2012-07-18,False
+01651760,Anacostia River at Kenilworth,FLOOD_055,2012-07-19,2012-07-19,False
+01651760,Anacostia River at Kenilworth,FLOOD_056,2012-09-02,2012-09-02,False
+01651760,Anacostia River at Kenilworth,FLOOD_057,2012-09-08,2012-09-08,False
+01651760,Anacostia River at Kenilworth,FLOOD_058,2012-10-29,2012-10-30,False
+01651760,Anacostia River at Kenilworth,FLOOD_059,2013-05-28,2013-05-28,False
+01651760,Anacostia River at Kenilworth,FLOOD_060,2013-06-28,2013-06-28,False
+01651760,Anacostia River at Kenilworth,FLOOD_061,2013-07-12,2013-07-12,False
+01651760,Anacostia River at Kenilworth,FLOOD_062,2014-04-30,2014-04-30,False
+01651760,Anacostia River at Kenilworth,FLOOD_063,2014-05-01,2014-05-01,False
+01651760,Anacostia River at Kenilworth,FLOOD_064,2014-05-16,2014-05-16,False
+01651760,Anacostia River at Kenilworth,FLOOD_065,2014-06-10,2014-06-10,False
+01651760,Anacostia River at Kenilworth,FLOOD_066,2014-08-12,2014-08-12,False
+01651760,Anacostia River at Kenilworth,FLOOD_067,2015-06-27,2015-06-27,False
+01651760,Anacostia River at Kenilworth,FLOOD_068,2016-02-24,2016-02-24,False
+01651760,Anacostia River at Kenilworth,FLOOD_069,2016-05-02,2016-05-03,False
+01651760,Anacostia River at Kenilworth,FLOOD_070,2016-06-21,2016-06-21,False
+01651760,Anacostia River at Kenilworth,FLOOD_071,2016-07-19,2016-07-20,False
+01651760,Anacostia River at Kenilworth,FLOOD_072,2016-07-20,2016-07-20,False
+01651760,Anacostia River at Kenilworth,FLOOD_073,2017-05-05,2017-05-05,False
+01651760,Anacostia River at Kenilworth,FLOOD_074,2017-07-28,2017-07-29,False
+01651760,Anacostia River at Kenilworth,FLOOD_075,2017-07-29,2017-07-29,False
+01651760,Anacostia River at Kenilworth,FLOOD_076,2017-08-01,2017-08-01,False
+01651760,Anacostia River at Kenilworth,FLOOD_077,2017-08-15,2017-08-15,False
+01651760,Anacostia River at Kenilworth,FLOOD_078,2017-08-18,2017-08-18,False
+01651760,Anacostia River at Kenilworth,FLOOD_079,2018-04-16,2018-04-16,False
+01651760,Anacostia River at Kenilworth,FLOOD_080,2018-05-22,2018-05-22,False
+01651760,Anacostia River at Kenilworth,FLOOD_081,2018-06-03,2018-06-03,False
+01651760,Anacostia River at Kenilworth,FLOOD_082,2018-07-21,2018-07-22,False
+01651760,Anacostia River at Kenilworth,FLOOD_083,2018-07-22,2018-07-22,False
+01651760,Anacostia River at Kenilworth,FLOOD_084,2018-07-25,2018-07-25,False
+01651760,Anacostia River at Kenilworth,FLOOD_085,2018-08-02,2018-08-02,False
+01651760,Anacostia River at Kenilworth,FLOOD_086,2018-08-07,2018-08-07,False
+01651760,Anacostia River at Kenilworth,FLOOD_087,2018-08-21,2018-08-21,False
+01651760,Anacostia River at Kenilworth,FLOOD_088,2018-09-07,2018-09-08,False
+01651760,Anacostia River at Kenilworth,FLOOD_089,2018-09-18,2018-09-18,False
+01651760,Anacostia River at Kenilworth,FLOOD_090,2018-11-24,2018-11-25,False
+01651760,Anacostia River at Kenilworth,FLOOD_091,2018-12-15,2018-12-16,False
+01651760,Anacostia River at Kenilworth,FLOOD_092,2019-03-21,2019-03-22,False
+01651760,Anacostia River at Kenilworth,FLOOD_093,2019-07-08,2019-07-08,False
+01651760,Anacostia River at Kenilworth,FLOOD_094,2019-11-01,2019-11-01,False
+01651760,Anacostia River at Kenilworth,FLOOD_095,2020-06-05,2020-06-05,False
+01651760,Anacostia River at Kenilworth,FLOOD_096,2020-07-06,2020-07-07,False
+01651760,Anacostia River at Kenilworth,FLOOD_097,2020-08-04,2020-08-04,False
+01651760,Anacostia River at Kenilworth,FLOOD_098,2020-09-10,2020-09-10,False
+01651760,Anacostia River at Kenilworth,FLOOD_099,2020-11-12,2020-11-12,False
+01651760,Anacostia River at Kenilworth,FLOOD_100,2020-12-25,2020-12-25,False
+01651760,Anacostia River at Kenilworth,FLOOD_101,2021-07-01,2021-07-01,False
+01651760,Anacostia River at Kenilworth,FLOOD_102,2021-07-09,2021-07-09,False
+01651760,Anacostia River at Kenilworth,FLOOD_103,2021-08-16,2021-08-17,False
+01651760,Anacostia River at Kenilworth,FLOOD_104,2021-08-20,2021-08-20,False
+01651760,Anacostia River at Kenilworth,FLOOD_105,2021-08-21,2021-08-21,False
+01651760,Anacostia River at Kenilworth,FLOOD_106,2021-09-01,2021-09-01,False
+01651760,Anacostia River at Kenilworth,FLOOD_107,2021-09-16,2021-09-16,False
+01651760,Anacostia River at Kenilworth,FLOOD_108,2021-09-23,2021-09-23,False
+01651760,Anacostia River at Kenilworth,FLOOD_109,2022-06-02,2022-06-02,False
+01651760,Anacostia River at Kenilworth,FLOOD_110,2022-06-23,2022-06-23,False
+01651760,Anacostia River at Kenilworth,FLOOD_111,2022-07-02,2022-07-03,False
+01651760,Anacostia River at Kenilworth,FLOOD_112,2022-07-03,2022-07-03,False
+01651760,Anacostia River at Kenilworth,FLOOD_113,2022-07-09,2022-07-09,False
+01651760,Anacostia River at Kenilworth,FLOOD_114,2022-07-16,2022-07-16,False
+01651760,Anacostia River at Kenilworth,FLOOD_115,2022-08-04,2022-08-05,False
+01651760,Anacostia River at Kenilworth,FLOOD_116,2022-08-05,2022-08-05,False
+01651760,Anacostia River at Kenilworth,FLOOD_117,2022-08-10,2022-08-10,False
+01651760,Anacostia River at Kenilworth,FLOOD_118,2023-08-14,2023-08-14,False
+01651760,Anacostia River at Kenilworth,FLOOD_119,2023-09-09,2023-09-09,False
+01651760,Anacostia River at Kenilworth,FLOOD_120,2023-12-17,2023-12-18,False
+01651760,Anacostia River at Kenilworth,FLOOD_121,2024-01-09,2024-01-10,False
+01651760,Anacostia River at Kenilworth,FLOOD_122,2024-01-28,2024-01-28,False
+01651760,Anacostia River at Kenilworth,FLOOD_123,2025-07-09,2025-07-09,True
+01651760,Anacostia River at Kenilworth,FLOOD_124,2025-07-13,2025-07-13,True
+01651760,Anacostia River at Kenilworth,FLOOD_125,2025-07-19,2025-07-19,True
