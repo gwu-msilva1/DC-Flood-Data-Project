@@ -1,0 +1,29 @@
+{
+    "source": "PRISM Climate Group",
+    "variable": "daily precipitation",
+    "variable_code": "ppt",
+    "units": "mm",
+    "event_id": "FLOOD_125",
+    "observation_date": "2025-07-19",
+    "temporal_resolution": "daily",
+    "temporal_interval_convention": "Verify against PRISM documentation",
+    "requested_resolution": "4km",
+    "native_crs": "EPSG:4269",
+    "native_pixel_size": [
+        0.041666666667,
+        0.041666666667
+    ],
+    "study_bbox_lonlat": [
+        -77.2,
+        38.78,
+        -76.85,
+        39.02
+    ],
+    "download_url": "https://services.nacse.org/prism/data/get/us/4km/ppt/20250719",
+    "retrieved_at_utc": "2026-10-30T02:15:06.261570+00:00",
+    "total_cells": 48,
+    "usable_cells": 48,
+    "missing_cells": 0,
+    "missing_fraction": 0.0,
+    "output_file": "prism_ppt_4km_20250719_dc.tif"
+}
