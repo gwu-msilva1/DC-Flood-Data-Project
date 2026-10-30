@@ -43,7 +43,12 @@ events.insert(
 )
 
 
-# SECTION 4: Combine dates and times
+# SECTION 4: Combine dates and times using fixed EST
+
+from datetime import timezone, timedelta
+
+# Fixed Eastern Standard Time = UTC-5, all year
+fixed_est = timezone(timedelta(hours=-5))
 
 for prefix in ("begin", "end"):
 
@@ -53,25 +58,17 @@ for prefix in ("begin", "end"):
         errors="coerce"
     )
 
-    # Interpret local times using Eastern Time.
-    # Ambiguous or nonexistent clock times are flagged
-    # rather than silently changed.
-
+    # The professor specified fixed EST even in summer.
     events[f"{prefix}_eastern"] = (
-        events[f"{prefix}_local"].dt.tz_localize(
-            "America/New_York",
-            ambiguous="NaT",
-            nonexistent="NaT"
-        )
+        events[f"{prefix}_local"].dt.tz_localize(fixed_est)
     )
 
-    # Convert valid Eastern timestamps to UTC.
     events[f"{prefix}_utc"] = (
         events[f"{prefix}_eastern"].dt.tz_convert("UTC")
     )
 
 
-# SECTION 5: Check timestamps and flag problems
+# SECTION 5: Validate event timestamps
 
 invalid_format = events[
     ["begin_local", "end_local"]
@@ -80,11 +77,6 @@ invalid_format = events[
 invalid_order = (
     events["end_local"] < events["begin_local"]
 ).fillna(False)
-
-dst_review = (
-    events[["begin_eastern", "end_eastern"]]
-    .isna().any(axis=1) & ~invalid_format
-)
 
 events["time_status"] = "ok"
 
@@ -95,10 +87,6 @@ events.loc[
 events.loc[
     invalid_order, "time_status"
 ] = "end_before_begin"
-
-events.loc[
-    dst_review, "time_status"
-] = "daylight_saving_review"
 
 
 # SECTION 6: Calculate flood-event duration
