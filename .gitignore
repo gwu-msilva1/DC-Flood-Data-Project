@@ -23,3 +23,9 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+
+# Local backup files
+data/metadata/usgs_gauge_inventory_backup.csv
+
+# Local submission package
+submission/
