@@ -1,0 +1,18 @@
+{
+    "station_id": "USC00186350",
+    "station_name": "National Arboretum, Washington DC",
+    "latitude": 38.91329,
+    "longitude": -76.97009,
+    "source": "NOAA NCEI Daily Summaries",
+    "variable": "PRCP",
+    "requested_units": "metric (mm)",
+    "requested_start": "1996-01-01",
+    "requested_end": "2025-12-31",
+    "downloaded_rows": 10473,
+    "valid_precipitation_rows": 10283,
+    "event_count": 125,
+    "events_with_same_date_observation": 124,
+    "events_without_same_date_observation": 1,
+    "request_url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&stations=USC00186350&dataTypes=PRCP&startDate=1996-01-01&endDate=2025-12-31&units=metric&format=csv&includeAttributes=true",
+    "note": "Same-date coverage is preliminary. Daily observation periods and time-zone alignment require separate verification."
+}
